@@ -2,6 +2,8 @@
 # Express, MongoDB, Passport API boilerplate project
 This repository serves as a starting point for building powerful and secure APIs using the popular stack of Express, MongoDB, and Passport. Whether you're a seasoned developer or just getting started, this boilerplate provides a solid foundation for quickly setting up and developing your own API projects.
 
+THIS IS NOT FOR BEGINNERS
+
 Quick instructions for the TL;DR folks:
 
 1. Go read the caveats at the bottom of the page
