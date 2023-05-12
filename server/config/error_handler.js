@@ -1,5 +1,5 @@
-const handleError = (err) => {
+const handle_error = (err) => {
     console.log(err)
 }
 
-module.exports = {handleError}
+module.exports = {handle_error}
