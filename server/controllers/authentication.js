@@ -1,6 +1,6 @@
 const bcrypt = require('bcrypt');
 const User = require('../models/user');
-const handle_error = require('../config/error_handler');
+const {handle_error} = require('../config/error_handler');
 
 const register = async (req, res) => {
     try {
